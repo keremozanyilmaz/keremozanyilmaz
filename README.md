@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keremozanyilmaz
 - 👀 I’m interested in ASP.Net MVC, PHP, React Native, Sql.
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning ASP.Net MVC
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? My linkedin is https://tr.linkedin.com/in/keremozanyilmaz
 
